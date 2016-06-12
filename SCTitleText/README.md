@@ -13,6 +13,8 @@ RPG Maker MV Plugins (personal work)
 * presented by SakuraCrowd
 * 素材提供 xxxx yyyy zzzz
 
+複数のテキストを表示する方法は後述します。
+
 # インストール方法
 1. RPG Maker MV のメニュー[Game]→[Open Folder] を選択します。
 1. 開いた場所から js/plugins フォルダへ移動します。
@@ -61,11 +63,11 @@ RPG Maker MV Plugins (personal work)
 	@desc テキストの外郭の幅です。  
 	既定値は 4 です。  
 
-# 色を rgba で指定する
+# 色を rgba で指定する方法
 rgba(R,G,B,A) は、R, G, B の整数値を 0 ~ 255 、 A の小数値を 0.0 ~ 1.0 の範囲で指定します。  
 半透明の緑色を指定する場合は ```rgba(0, 255, 0, 0.5)``` と指定します。
 
- # タイトルで複数のテキストを表示する場合
+# タイトルシーンで複数のテキストを表示する方法
 このプラグインファイルを別の名前でコピーして、それを使用してください。  
 
 このとき、ソースコードの  
