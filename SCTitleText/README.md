@@ -6,7 +6,7 @@ RPG Maker MV Plugins (personal work)
 クレジット表記などにお使いください。  
 位置、サイズ、フォント、斜体、色(半透明も可能)、アウトラインを指定できます。    
 
-![サンプル画像](example.png "example")
+![サンプル画像](Example.png "example")
 
 サンプル画像では、次の３つのテキストを表示しています。
 * SCTitleText サンプル
