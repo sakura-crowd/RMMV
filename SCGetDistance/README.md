@@ -5,10 +5,10 @@ RPG Maker MV Plugins (personal work)
 イベントとイベントまたは座標との距離を計算するプラグインです。
 イベントが近づいたり離れたりしたときに動作を切り替えたいときなどにお使い下さい。
 
-- ２つのイベントの距離を測るサンプル
+２つのイベントの距離を測るサンプル  
 ![arg3 サンプル画像](SCGetDistance_arg3_1.gif "arg3 example")
 
-- イベントと座標との距離を測るサンプル
+イベントと座標との距離を測るサンプル  
 ![arg4 サンプル画像](SCGetDiatance_arg4_1.gif "arg4 example")
 
 # インストール方法
